@@ -19,7 +19,7 @@ To help you with an upcoming assessment, here is some quick revision from last t
 Before we begin, write down a simple single-sentence definition of each of the four pillars:
 
 - Inheritance:
-  > Your answer here
+  Refers to a hierarchy of values and methods that cascades down
 - Encapsulation:
   > Your answer here
 - Abstraction:
